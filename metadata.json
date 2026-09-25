@@ -1,0 +1,7 @@
+{
+  "name": "KopKita - KSP Sejahtera Utama",
+  "description": "Aplikasi Manajemen dan Dashboard Operasional Koperasi Simpan Pinjam KopKita: pemantauan kas, simpan pinjam, data anggota, dan laporan keuangan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
